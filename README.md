@@ -11,7 +11,7 @@ Main features:
 
 Kademlia
 --------
-Library supports Kademlia2 eMule protocol. Version of client is KADEMLIA_VERSION5_48a to aboid obfuscation requirement.
+Library supports Kademlia2 eMule protocol. Version of client is KADEMLIA_VERSION5_48a to avoid obfuscation requirement.
 Features:
 - search for sources
 - search for keywords
